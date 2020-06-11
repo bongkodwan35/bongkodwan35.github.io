@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5,
           -ms-transform: translateY(-50%);
           transform: translateY(-50%);
           font-family: 'icomoon'; }
-      .site-navbar .site-navigation .site-menu .has-children .dropdown {
+      .site-navbar .site-navigation .site-menu .has-children .dropdown {   /*ส่วนดรอปดาวน์เปลี่ยนภาษา*/
         visibility: hidden;
         opacity: 0;
         top: 100%;
